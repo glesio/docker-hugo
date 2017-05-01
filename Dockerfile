@@ -1,6 +1,6 @@
 FROM alpine:3.5
 
-LABEL MAINTANER='Glesio Paiva'
+LABEL MAINTANER='Glesio Paiva <glesio@gmail.com>'
 
 ENV VERSION 0.20.6
 ENV URL 'http://localhost:1313'

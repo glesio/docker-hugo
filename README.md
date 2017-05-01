@@ -1,7 +1,7 @@
 glesio/hugo
 ===========
 
-`glesio/hugo` is a [Docker](https://www.docker.io) image for [Hugo](http://gohugo.io) static sites.
+`glesio/hugo` is a [Docker](https://www.docker.io) image based in [Alpine Linux](https://alpinelinux.org/) for [Hugo](http://gohugo.io) static website engine.
 
 
 Examples

@@ -8,7 +8,7 @@ Examples
 --------
 ```
 # Start Server
-docker container run -d --name hugo -v $PWD:/hugo glesio/hugo
+docker container run -d --name hugo -p 1313:1313 -v $PWD:/hugo glesio/hugo
 ```
 ```
 # Build Site
